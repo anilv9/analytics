@@ -1,0 +1,11 @@
+Debugger listening on ws://127.0.0.1:50662/b964fb4d-ad71-4faf-a7d5-aed60e4e52cf
+For help see https://nodejs.org/en/docs/inspector
+Debugger attached.
+api-server is listening on port 3000!
+running starter - get activities
+get activities undefined
+promise returned ErrorModule {
+  _code: 400,
+  _reason: 'bad request',
+  _message: 'there is a vpn issue that is blocking outgoing traffic',
+  _examples: [] }

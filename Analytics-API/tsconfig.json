@@ -1,0 +1,41 @@
+{
+	"reportDescription": {
+		"reportSuiteID": "attconprod",
+		"date": "",
+		"dateFrom": "2018-03-29",
+		"dateTo": "2018-04-16",
+		"dateGranularity": "day",
+		"sortBy": "uniquevisitors",
+		"locale": "en_US",
+		"source": "standard",
+		"metrics": [
+			{
+				"id": "uniquevisitors"
+			}
+		],
+		"elements": [
+			{
+				"id": "activity",
+				"top": "5",
+				"search": {
+					"type": "NOT",
+					"keywords": [
+						"::none::"
+					]
+				},
+				"itemIds": [
+					"1621921405",
+					"2733300011"
+				]
+			}
+		],
+		"segments": [
+			{
+				"id": "s300000384_5a8c6f6a0402fd60a444bdc3"
+			},
+			{
+				"id": "s300000384_58102727e4b0c7fcac6c1150"
+			}
+		]
+	}
+}

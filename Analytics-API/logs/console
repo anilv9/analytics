@@ -1,0 +1,125 @@
+Debugger listening on ws://127.0.0.1:54038/fcb82cd4-658c-494b-b5f0-bd627246d8de
+For help see https://nodejs.org/en/docs/inspector
+api-server is listening on port 3000!
+running analytics - post report
+visitors[0] 0
+visitors[1] 0
+--- activities1 [ StandardModule {
+    _id: '3707285138',
+    _name: '--- No result for activity 3707285138',
+    _visitors: 0,
+    _orders: 
+     MetricModule {
+       _id: '',
+       _name: '',
+       _total: 0,
+       _variance: '0',
+       _conversion: '0',
+       _lift: '0',
+       _confidence: '0' },
+    _clicks: [] },
+  StandardModule {
+    _id: '1140377734',
+    _name: '--- No result for activity 1140377734',
+    _visitors: 0,
+    _orders: 
+     MetricModule {
+       _id: '',
+       _name: '',
+       _total: 0,
+       _variance: '0',
+       _conversion: '0',
+       _lift: '0',
+       _confidence: '0' },
+    _clicks: [] } ]
+--- metrics2 [ { id: 0,
+    type: 'breakdown',
+    dimension: 'variables/targetraw.activityexperience',
+    itemId: '3707285138' },
+  { id: 1,
+    type: 'breakdown',
+    dimension: 'variables/targetraw.activityexperience',
+    itemId: '1140377734' } ]
+/adobe/analytics/report {body.rows2} []
+---report [ StandardModule {
+    _id: '3707285138',
+    _name: '--- No result for activity 3707285138',
+    _visitors: 0,
+    _orders: 
+     MetricModule {
+       _id: '',
+       _name: '',
+       _total: 0,
+       _variance: '0',
+       _conversion: '0',
+       _lift: '0',
+       _confidence: '0' },
+    _clicks: [] },
+  StandardModule {
+    _id: '1140377734',
+    _name: '--- No result for activity 1140377734',
+    _visitors: 0,
+    _orders: 
+     MetricModule {
+       _id: '',
+       _name: '',
+       _total: 0,
+       _variance: '0',
+       _conversion: '0',
+       _lift: '0',
+       _confidence: '0' },
+    _clicks: [] } ]
+--- orders[orders] [ { columnId: 1,
+    id: 'metrics/visitors',
+    sort: 'desc',
+    filters: [ 0, 1 ] },
+  { columnId: 2,
+    id: 'metrics/visitors',
+    sort: 'desc',
+    filters: [ 2, 3 ] } ]
+--- orders[generators] [ { id: 0,
+    type: 'breakdown',
+    dimension: 'variables/evar13.7',
+    itemId: '3072726619' },
+  { id: 1,
+    type: 'breakdown',
+    dimension: 'variables/targetraw.activityexperience',
+    itemId: '3707285138' },
+  { id: 2,
+    type: 'breakdown',
+    dimension: 'variables/evar13.7',
+    itemId: '3072726619' },
+  { id: 3,
+    type: 'breakdown',
+    dimension: 'variables/targetraw.activityexperience',
+    itemId: '1140377734' } ]
+/adobe/analytics/report {body.rows3} []
+---report [ StandardModule {
+    _id: '3707285138',
+    _name: '--- No result for activity 3707285138',
+    _visitors: 0,
+    _orders: 
+     MetricModule {
+       _id: '',
+       _name: '',
+       _total: 0,
+       _variance: '0.00',
+       _conversion: 'NaN',
+       _lift: '0',
+       _confidence: '0' },
+    _clicks: [] },
+  StandardModule {
+    _id: '1140377734',
+    _name: '--- No result for activity 1140377734',
+    _visitors: 0,
+    _orders: 
+     MetricModule {
+       _id: '',
+       _name: '',
+       _total: 0,
+       _variance: '0.00',
+       _conversion: 'NaN',
+       _lift: '0',
+       _confidence: '0' },
+    _clicks: [] } ]
+__________ completed regular stats __________

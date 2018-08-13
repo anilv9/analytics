@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CRO-18</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/css/foundation.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/motion-ui/2.0.3/motion-ui.min.css">
+</head>
+<body>
+<header>header</header>
+<main>
+    <section class="grid-x">
+        <header class="cell small-12">blah blah blah</header>
+        <div class="cell small-12 medium-6 large-3">variant</div>
+        <div class="cell small-12 medium-6 large-1">visitors</div>
+        <div class="cell small-12 medium-6 large-1">clicks</div>
+        <div class="cell small-12 medium-6 large-2">conversion</div>
+        <div class="cell small-12 medium-6 large-1">lift</div>
+        <div class="cell small-12 medium-6 large-1">confidence</div>
+    </section>
+</main>
+<footer>footer</footer>
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/foundation.min.js"></script>
+<script>
+    $(document).ready(function(){
+        $.post('http://localhost:3000/adobe/analytics/report',{
+            suite:'attconprod',
+            activity:[
+                1621921405,
+                2733300011
+            ],
+            start:'3/29/2018',
+            end:'4/17/2018'
+        }).done(function(result){
+            //
+        }).fail(function(result) {
+            //
+        });
+    });
+</script>
+</html>

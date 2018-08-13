@@ -1,0 +1,1718 @@
+Debugger listening on ws://127.0.0.1:57890/b9d43dda-dd46-4e30-90da-c5dfd248e630
+For help see https://nodejs.org/en/docs/inspector
+Debugger attached.
+api-server is listening on port 3000!
+running starter - get activities
+get activities { totalPages: 4,
+  firstPage: true,
+  lastPage: false,
+  numberOfElements: 100,
+  number: 0,
+  totalElements: 349,
+  reportId: 'topItems',
+  rows: 
+   [ { itemId: '0', value: 'Unspecified' },
+     { itemId: '1140377734',
+       value: 'CRO-111-WI-buy flow-RW....umber of items in cart > Experience B' },
+     { itemId: '3707285138',
+       value: 'CRO-111-WI-buy flow-RW....umber of items in cart > Experience A' },
+     { itemId: '425927825',
+       value: 'CH CRO-169 Mobile Parent > Experience A' },
+     { itemId: '4175814007', value: 'CH CRO-101 Parent > v0' },
+     { itemId: '3340184142',
+       value: 'CH-CRO-138-SS-CBO-D cbo-device-support (PARENT) > Parent Desktop' },
+     { itemId: '1955584371', value: 'CH CRO-101 Mobile Parent > v0' },
+     { itemId: '2915416028',
+       value: 'CRO-123 - Backsplash t....Tiles (CHILD)- LIVE QA > v1: Backsplash' },
+     { itemId: '1561529944',
+       value: 'CH-CRO-392-SS-CBO-M cbo-device-support (PARENT) > Mobile Parent' },
+     { itemId: '1161987925',
+       value: 'CH-CRO-232-UF-NAV-M quicklinks (LIVE) > v0: Control' },
+     { itemId: '4025592876',
+       value: 'CH-CRO-232-UF-NAV-M quicklinks (LIVE) > v1: quicklinks' },
+     { itemId: '484703865',
+       value: 'p-17-Top Selling Recommendation-Child > 14887-21306-1' },
+     { itemId: '4194232769',
+       value: 'CRO-370-RWD-LandingPage-Homepage takeover test > Control' },
+     { itemId: '3411292056',
+       value: 'CRO-370-RWD-LandingPage-Homepage takeover test > Variant' },
+     { itemId: '3239818734',
+       value: 'CRO-202-RWD-AB-Global Nav International link A4T > Control' },
+     { itemId: '1077375168',
+       value: 'CRO-202-RWD-AB-Global Nav International link A4T > Variant' },
+     { itemId: '2779480097',
+       value: 'CH-CRO-232-UF-NAV-D quicklinks (LIVE) > v0: Control' },
+     { itemId: '475449697',
+       value: 'CH-CRO-232-UF-NAV-D quicklinks (LIVE) > v1: Quicklinks' },
+     { itemId: '3397389487',
+       value: 'P-64-CBO-Fathersday-Child > Experience A' },
+     { itemId: '2180226747',
+       value: 'P-48-AB-D-$30WaivedUpgradeFee_Child_OverView > Experience A' },
+     { itemId: '3630707634',
+       value: 'P-48-AB-D-$30WaivedUpgradeFee_Child_OverView > Experience B' },
+     { itemId: '4282431950',
+       value: 'P-48-AB-D-$30WaivedUpgradeFee_Child > Experience B' },
+     { itemId: '2563000663',
+       value: 'CRO-136 m.exp-6.0-two-....| NOT CURRENT VERSION) > v0' },
+     { itemId: '4290596577',
+       value: 'CRO-136 m.exp-6.0-two-....| NOT CURRENT VERSION) > v1' },
+     { itemId: '1715633597',
+       value: 'CRO-291-WI-D-AB-Sustai....int and $0 down  Child > Variant' },
+     { itemId: '3968011074',
+       value: 'CRO-127 - exp-23.0-wider-search-input (PAUSED) > v1-full-takeover: exp-23.0' },
+     { itemId: '2502538264',
+       value: 'CRO-127 - exp-23.0-wider-search-input (PAUSED) > v0-control: exp-23.0' },
+     { itemId: '1798239530',
+       value: 'CRO-68 WI-CHK-B-AB -En....S320400 with API Child > Variant 2' },
+     { itemId: '2389534619',
+       value: 'CRO-68 WI-CHK-B-AB -En....S320400 with API Child > Variant 1' },
+     { itemId: '16542789',
+       value: 'CRO-68 WI-CHK-B-AB -En....S320400 with API Child > Control' },
+     { itemId: '4030693041',
+       value: 'CRO-68 WI-CHK-B-AB -En....S320400 with API Child > Variant 3' },
+     { itemId: '76403764',
+       value: 'CRO-227-WI-RWD-Remove ....From Devices Page List > Variant' },
+     { itemId: '58153681',
+       value: 'CRO-227-WI-RWD-Remove ....From Devices Page List > Control' },
+     { itemId: '47815424',
+       value: 'CRO-266 WI-RWD-Unlimit....bal Nav A/B Test Child > Control' },
+     { itemId: '3838707306',
+       value: 'CRO-266 WI-RWD-Unlimit....bal Nav A/B Test Child > Variant 1' },
+     { itemId: '448301596',
+       value: 'CRO-266 WI-RWD-Unlimit....bal Nav A/B Test Child > Variant 2' },
+     { itemId: '964674525',
+       value: 'CRO-244-WI-HME-RWD-Tes.... text for Sign In Copy > Control' },
+     { itemId: '304301839',
+       value: 'CRO-244-WI-HME-RWD-Tes.... text for Sign In Copy > Variant 1' },
+     { itemId: '1920526816',
+       value: 'CRO-244-WI-HME-RWD-Tes.... text for Sign In Copy > Variant 2' },
+     { itemId: '1063936255',
+       value: 'CRO-244-WI-HME-RWD-Tes.... text for Sign In Copy > Variant 3' },
+     { itemId: '1502811298',
+       value: 'CH - CRO-101 - exp-12.....urage-auto-pay (CHILD) > v0' },
+     { itemId: '3069946706',
+       value: 'CH - CRO-101 - exp-12.....urage-auto-pay (CHILD) > v1' },
+     { itemId: '228523784',
+       value: 'CRO-350-DIRECTV NOW Th....ff for Organic Traffic > Experience A' },
+     { itemId: '3123666400',
+       value: 'CRO-137 WI-AB-D unlimited banner in buyflow > Experience B' },
+     { itemId: '1148294963',
+       value: 'CH-CRO-183-WI-UF-D Prepaid headband (Live) > v1' },
+     { itemId: '560473890',
+       value: 'CH-CRO-183-WI-UF-D Prepaid headband (Live) > v0' },
+     { itemId: '2238722296',
+       value: 'P-74-CBO_Fathersday_Child > Experience A' },
+     { itemId: '402168545',
+       value: 'P-73-PlanBanner-Child > Experience A' },
+     { itemId: '3262174241',
+       value: 'CRO-169- International Card on CBO (CHILD) > v1: international card on cbo' },
+     { itemId: '2866449888',
+       value: 'CRO-169- International Card on CBO (CHILD) > v0: Control' },
+     { itemId: '3596559501',
+       value: 'CH-CRO-183-WI-UF-M Prepaid headband (Live) > v0' },
+     { itemId: '4029218854',
+       value: 'CH-CRO-183-WI-UF-M Prepaid headband (Live) > v1' },
+     { itemId: '1628843629',
+       value: 'CRO-169- Mobile - Inte....al Card on CBO (CHILD) > v1: mobile international card on cbo' },
+     { itemId: '861050049',
+       value: 'CRO-169- Mobile - Inte....al Card on CBO (CHILD) > v0: Control' },
+     { itemId: '1035705500',
+       value: 'CRO-279 Provide Predic.... functionality AB Test > Control' },
+     { itemId: '2815514588',
+       value: 'CRO-279 Provide Predic.... functionality AB Test > Variant' },
+     { itemId: '317720234',
+       value: 'CRO-170 m.exp-16.0-wireless-nav > v0-control' },
+     { itemId: '3779371352',
+       value: 'CRO-170 m.exp-16.0-wireless-nav > v1-sticky-sub-nav' },
+     { itemId: '747535804',
+       value: 'CH-CRO-138-SS-CBO-D cbo-device-support (CHILD) > v0' },
+     { itemId: '1770696648',
+       value: 'CH-CRO-138-SS-CBO-D cbo-device-support (CHILD) > v1' },
+     { itemId: '209603723',
+       value: 'P-48-AB-D-$30WaivedUpgradeFee_Child > Experience A' },
+     { itemId: '1168803064',
+       value: 'CRO-136 - exp-6.0-two-....aries (PAUSED | CHILD) > v1' },
+     { itemId: '514159449',
+       value: 'CRO-170 exp-16.0-wireless-nav > v1-sticky-sub-nav' },
+     { itemId: '3608938017',
+       value: 'CRO-136 - exp-6.0-two-....aries (PAUSED | CHILD) > v0' },
+     { itemId: '3066964981',
+       value: 'CRO-44 - m.exp-15.0-PLP-filter-sticky-apply-CTA > v0-control' },
+     { itemId: '3030355749',
+       value: 'CRO-44 - m.exp-15.0-PLP-filter-sticky-apply-CTA > v1-filter-sticky-apply-cta' },
+     { itemId: '616038378',
+       value: 'CRO-170 exp-16.0-wireless-nav > v0-control' },
+     { itemId: '534274751',
+       value: 'CH - CRO-141 pod 2: ex....sticky-header (PAUSED) > v1' },
+     { itemId: '2330227462',
+       value: 'CRO-296-WI-RWD-AB-Remo....ice Config page  Child > Variant 2' },
+     { itemId: '1648379820',
+       value: 'CRO-234-DTVNow-B-Promo....fer Tile: A/B Test A4T > Experience A' },
+     { itemId: '4042161826',
+       value: 'CRO-296-WI-RWD-AB-Remo....ice Config page  Child > Variant 1' },
+     { itemId: '563846582',
+       value: 'CH - CRO-141 pod 2: ex....sticky-header (PAUSED) > v0' },
+     { itemId: '3258740267',
+       value: 'CRO-296-WI-RWD-AB-Remo....ice Config page  Child > Control' },
+     { itemId: '1856807487',
+       value: 'CH - CRO-101 - m.exp-1....urage-auto-pay (CHILD) > v1' },
+     { itemId: '1988066062',
+       value: 'CH - CRO-101 - m.exp-1....urage-auto-pay (CHILD) > v0' },
+     { itemId: '2545600889',
+       value: 'CRO-311-DTVNOW-D-AB-B3....YESNOW3 with A4T Child > No B3G1' },
+     { itemId: '1034192185',
+       value: 'CRO-26 - m.exp-10.0-legal-popup > v1' },
+     { itemId: '379446221',
+       value: 'CRO-26 - m.exp-10.0-legal-popup > v0' },
+     { itemId: '297381332',
+       value: 'CRO-13 - m.exp-6.0-PDP-sticky-CTA > V2 - m.exp-6.0-bottom-sticky-continue-cta' },
+     { itemId: '1735720657',
+       value: 'CRO-13 - m.exp-6.0-PDP-sticky-CTA > V1 - m.exp-6.0-stacked-sticky-continue-cta' },
+     { itemId: '2249103644',
+       value: 'CRO-259-HS-RWD-AB-Supp....Shop Offers page Child > Variant 1' },
+     { itemId: '3349437555',
+       value: 'CRO-13 - m.exp-6.0-PDP-sticky-CTA > V0 - control: m.exp-6.0-no-sticky-banner' },
+     { itemId: '2839860242',
+       value: 'CRO-259-HS-RWD-AB-Supp....Shop Offers page Child > Control' },
+     { itemId: '2807756567',
+       value: 'CRO-259-HS-RWD-AB-Supp....Shop Offers page Child > Variant 3' },
+     { itemId: '718349299',
+       value: 'CRO-259-HS-RWD-AB-Supp....Shop Offers page Child > Variant 2' },
+     { itemId: '1909743975',
+       value: 'CRO-253 WI-RWD - Test ....arquee A/B Test Parent > Variant' },
+     { itemId: '297067516',
+       value: 'P-2-AB Abandoned Cart Modal Child > No modal experience' },
+     { itemId: '4002851624',
+       value: 'P-2-AB Abandoned Cart Modal Child > Modal experience' },
+     { itemId: '2599667986',
+       value: 'CRO-136 - exp-6.0-two-....| NOT CURRENT VERSION) > v1' },
+     { itemId: '4132523029',
+       value: 'CRO-136 - exp-6.0-two-....| NOT CURRENT VERSION) > v0' },
+     { itemId: '1501946957',
+       value: 'CRO-278-WI-RWD-AB-Unli....r Line vs. Total Price > Control' },
+     { itemId: '1707709707',
+       value: 'CRO-291 WI-DVL-D-AB Cellphone list price 100% > Variant 2' },
+     { itemId: '2787429156',
+       value: 'CRO-311-AB-DTVNOW-B-AB-B3G1 Vs. YESNOW3 with A4T > No B3G' },
+     { itemId: '1077270415',
+       value: 'P-69-AB-VirtualCart > Experience B' },
+     { itemId: '4262394556',
+       value: 'CRO-278-WI-RWD-AB-Unli....r Line vs. Total Price > Variant' },
+     { itemId: '1137101545',
+       value: 'CRO-136 - m.exp-6.0-tw....aries (PAUSED | CHILD) > v1' },
+     { itemId: '2523452737',
+       value: 'CRO-311-DTVNOW-D-AB-B3....YESNOW3 with A4T Child > Controller' },
+     { itemId: '3230197543',
+       value: 'A4T Validation - Analy....orting - Deals Page 04 > Experience B' },
+     { itemId: '365258033',
+       value: 'CRO-311-DTVNOW-D-AB-B3....YESNOW3 with A4T Child > No YesNow3' },
+     { itemId: '3215806034',
+       value: 'CRO-280-HS-M-AB-CRO-Us....re in Mobile Only Copy > Variant B' } ] }
+req url https://appservice5-3.omniture.com/analytics/1.0/reports/topItems
+req query url https://appservice5-3.omniture.com/analytics/1.0/reports/topItems
+req query { page: 1,
+  limit: 100,
+  url: 'https://appservice5-3.omniture.com/analytics/1.0/reports/topItems',
+  range: '2018-07-06T00:00:00.000/2018-08-05T00:00:00.000',
+  skip: 'true' }
+req query { page: 2,
+  limit: 100,
+  url: 'https://appservice5-3.omniture.com/analytics/1.0/reports/topItems',
+  range: '2018-07-06T00:00:00.000/2018-08-05T00:00:00.000',
+  skip: 'true' }
+req query { page: 3,
+  limit: 100,
+  url: 'https://appservice5-3.omniture.com/analytics/1.0/reports/topItems',
+  range: '2018-07-06T00:00:00.000/2018-08-05T00:00:00.000',
+  skip: 'true' }
++++ added activity { activity: { id: '0', name: 'Unspecified' } }
+--- config 349 activities 1 elements 349
++++ added activity { activity: 
+   { id: '3707285138',
+     name: 'CRO-111-WI-buy flow-RW....umber of items in cart > Experience A' } }
+--- config 349 activities 2 elements 349
++++ added activity { activity: 
+   { id: '1140377734',
+     name: 'CRO-111-WI-buy flow-RW....umber of items in cart > Experience B' } }
+--- config 349 activities 3 elements 349
++++ added activity { activity: { id: '4175814007', name: 'CH CRO-101 Parent > v0' } }
+--- config 349 activities 4 elements 349
++++ added activity { activity: 
+   { id: '3340184142',
+     name: 'CH-CRO-138-SS-CBO-D cbo-device-support (PARENT) > Parent Desktop' } }
+--- config 349 activities 5 elements 349
++++ added activity { activity: 
+   { id: '425927825',
+     name: 'CH CRO-169 Mobile Parent > Experience A' } }
+--- config 349 activities 6 elements 349
++++ added activity { activity: { id: '1955584371', name: 'CH CRO-101 Mobile Parent > v0' } }
+--- config 349 activities 7 elements 349
++++ added activity { activity: 
+   { id: '2915416028',
+     name: 'CRO-123 - Backsplash t....Tiles (CHILD)- LIVE QA > v1: Backsplash' } }
+--- config 349 activities 8 elements 349
++++ added activity { activity: 
+   { id: '1561529944',
+     name: 'CH-CRO-392-SS-CBO-M cbo-device-support (PARENT) > Mobile Parent' } }
+--- config 349 activities 9 elements 349
++++ added activity { activity: 
+   { id: '1161987925',
+     name: 'CH-CRO-232-UF-NAV-M quicklinks (LIVE) > v0: Control' } }
+--- config 349 activities 10 elements 349
++++ added activity { activity: 
+   { id: '4025592876',
+     name: 'CH-CRO-232-UF-NAV-M quicklinks (LIVE) > v1: quicklinks' } }
+--- config 349 activities 11 elements 349
++++ added activity { activity: 
+   { id: '1077375168',
+     name: 'CRO-202-RWD-AB-Global Nav International link A4T > Variant' } }
+--- config 349 activities 12 elements 349
++++ added activity { activity: 
+   { id: '3630707634',
+     name: 'P-48-AB-D-$30WaivedUpgradeFee_Child_OverView > Experience B' } }
+--- config 349 activities 13 elements 349
++++ added activity { activity: 
+   { id: '3968011074',
+     name: 'CRO-127 - exp-23.0-wider-search-input (PAUSED) > v1-full-takeover: exp-23.0' } }
+--- config 349 activities 14 elements 349
++++ added activity { activity: 
+   { id: '4030693041',
+     name: 'CRO-68 WI-CHK-B-AB -En....S320400 with API Child > Variant 3' } }
+--- config 349 activities 15 elements 349
++++ added activity { activity: 
+   { id: '448301596',
+     name: 'CRO-266 WI-RWD-Unlimit....bal Nav A/B Test Child > Variant 2' } }
+--- config 349 activities 16 elements 349
++++ added activity { activity: 
+   { id: '1502811298',
+     name: 'CH - CRO-101 - exp-12.....urage-auto-pay (CHILD) > v0' } }
+--- config 349 activities 17 elements 349
++++ added activity { activity: 
+   { id: '560473890',
+     name: 'CH-CRO-183-WI-UF-D Prepaid headband (Live) > v0' } }
+--- config 349 activities 18 elements 349
++++ added activity { activity: 
+   { id: '3596559501',
+     name: 'CH-CRO-183-WI-UF-M Prepaid headband (Live) > v0' } }
+--- config 349 activities 19 elements 349
++++ added activity { activity: 
+   { id: '2815514588',
+     name: 'CRO-279 Provide Predic.... functionality AB Test > Variant' } }
+--- config 349 activities 20 elements 349
++++ added activity { activity: 
+   { id: '209603723',
+     name: 'P-48-AB-D-$30WaivedUpgradeFee_Child > Experience A' } }
+--- config 349 activities 21 elements 349
++++ added activity { activity: 
+   { id: '3030355749',
+     name: 'CRO-44 - m.exp-15.0-PLP-filter-sticky-apply-CTA > v1-filter-sticky-apply-cta' } }
+--- config 349 activities 22 elements 349
++++ added activity { activity: 
+   { id: '4042161826',
+     name: 'CRO-296-WI-RWD-AB-Remo....ice Config page  Child > Variant 1' } }
+--- config 349 activities 23 elements 349
++++ added activity { activity: 
+   { id: '2545600889',
+     name: 'CRO-311-DTVNOW-D-AB-B3....YESNOW3 with A4T Child > No B3G1' } }
+--- config 349 activities 24 elements 349
++++ added activity { activity: 
+   { id: '2249103644',
+     name: 'CRO-259-HS-RWD-AB-Supp....Shop Offers page Child > Variant 1' } }
+--- config 349 activities 25 elements 349
++++ added activity { activity: 
+   { id: '1909743975',
+     name: 'CRO-253 WI-RWD - Test ....arquee A/B Test Parent > Variant' } }
+--- config 349 activities 26 elements 349
++++ added activity { activity: 
+   { id: '1501946957',
+     name: 'CRO-278-WI-RWD-AB-Unli....r Line vs. Total Price > Control' } }
+--- config 349 activities 27 elements 349
++++ added activity { activity: 
+   { id: '1137101545',
+     name: 'CRO-136 - m.exp-6.0-tw....aries (PAUSED | CHILD) > v1' } }
+--- config 349 activities 28 elements 349
++++ added activity { activity: 
+   { id: '3202781568',
+     name: 'CRO-136 - m.exp-6.0-tw....aries (PAUSED | CHILD) > v0' } }
+--- config 349 activities 29 elements 349
++++ added activity { activity: 
+   { id: '1898610448',
+     name: 'CRO-268 Week  3 - RWD ....omotions AB Test Child > Control' } }
+--- config 349 activities 30 elements 349
++++ added activity { activity: 
+   { id: '338723475',
+     name: 'CRO-268 Week  3 - RWD ....omotions AB Test Child > Variant 1' } }
+--- config 349 activities 31 elements 349
++++ added activity { activity: 
+   { id: '3475980615',
+     name: 'P-20 Empty Cart Page -....ing Carousal (deleted) > 14887-23415-1' } }
+--- config 349 activities 32 elements 349
++++ added activity { activity: 
+   { id: '4211358418',
+     name: 'CH-CRO-392-SS-CBO-M cbo-device-support > v1' } }
+--- config 349 activities 33 elements 349
++++ added activity { activity: 
+   { id: '318212079',
+     name: 'CRO-297-M-New Offer Pr....ew, AAL - Mobile Child > Control' } }
+--- config 349 activities 34 elements 349
++++ added activity { activity: 
+   { id: '1444054492',
+     name: 'CRO-253 WI-RWD - Test ....Marquee A/B Test Child > Experience A' } }
+--- config 349 activities 35 elements 349
++++ added activity { activity: 
+   { id: '206964822',
+     name: 'CRO-311-AB-DTVNOW-B-AB-B3G1 Vs. YESNOW3 with A4T > Experience A' } }
+--- config 349 activities 36 elements 349
++++ added activity { activity: 
+   { id: '129798613',
+     name: 'CRO-380/254/150-DTVNOW....v now links on att.com > DTVN' } }
+--- config 349 activities 37 elements 349
++++ added activity { activity: 
+   { id: '2360863179',
+     name: 'CRO-122-Modify Deliver.... page - New-Child Copy > Variant' } }
+--- config 349 activities 38 elements 349
++++ added activity { activity: 
+   { id: '1450710447',
+     name: 'CRO-137 WI-AB-D unlimi.... in buyflow child test > Experience A' } }
+--- config 349 activities 39 elements 349
++++ added activity { activity: 
+   { id: '2238176618',
+     name: 'P-76 BOGO Offers in De....gurator and Cart Pages > Experience B' } }
+--- config 349 activities 40 elements 349
++++ added activity { activity: 
+   { id: '1032744030',
+     name: 'CH - CRO-322 - add esupport links Mobile > v0' } }
+--- config 349 activities 41 elements 349
++++ added activity { activity: 
+   { id: '3865122500',
+     name: 'CRO-9 exp-4.0-data-pla....y - old - see cro-9.1) > v0: Control' } }
+--- config 349 activities 42 elements 349
++++ added activity { activity: 
+   { id: '4173891231',
+     name: 'CRO-9 exp-4.0-data-pla....y - old - see cro-9.1) > v1: Stacked Boxes' } }
+--- config 349 activities 43 elements 349
++++ added activity { activity: 
+   { id: '814892422',
+     name: 'CRO-62 WI-HP-D-AB-Marquee split msg testing > Experience B' } }
+--- config 349 activities 44 elements 349
++++ added activity { activity: 
+   { id: '38904857',
+     name: 'CRO-11 - exp-1.0-plans-forward (PAUSED) > v0: exp-1.0-control' } }
+--- config 349 activities 45 elements 349
++++ added activity { activity: 
+   { id: '1572072234',
+     name: 'CRO-50 - exp-17.0-device-pmt-compare-table > v1: exp-17.0 Emphasized Link' } }
+--- config 349 activities 46 elements 349
++++ added activity { activity: 
+   { id: '563791402',
+     name: 'CRO-387-M-NEW JULY 14 ....ls page - New (Mobile) > Experience B' } }
+--- config 349 activities 47 elements 349
++++ added activity { activity: 
+   { id: '2313949695',
+     name: 'CRO-30 CH pod-1: exp-1.0-PDP-sticky-CTA (PROD) > V1' } }
+--- config 349 activities 48 elements 349
++++ added activity { activity: 
+   { id: '3033058241',
+     name: 'CRO-11 - m.exp-2.0-plans-forward (PAUSED) > v0: m.exp-2.0-control (pod-2)' } }
+--- config 349 activities 49 elements 349
++++ added activity { activity: 
+   { id: '2523614040',
+     name: 'CH-CRO-392-SS-CBO-M cb....LIVE QA) (deactivated) > v0' } }
+--- config 349 activities 50 elements 349
++++ added activity { activity: 
+   { id: '1905190437',
+     name: 'CRO-131 - m.exp-15.0-s....(PAUSED) (deactivated) > v1' } }
+--- config 349 activities 51 elements 349
++++ added activity { activity: 
+   { id: '1184479183',
+     name: 'CRO-338/158-DTVNow-B-A....Now_AppleTV Vanity A4T > Experience A' } }
+--- config 349 activities 52 elements 349
++++ added activity { activity: 
+   { id: '2136130937',
+     name: 'CRO-68 Monitor_CRO68_variant2 > Experience A' } }
+--- config 349 activities 53 elements 349
++++ added activity { activity: 
+   { id: '2192958425',
+     name: 'exp-0.0-aa-test 030218 > Experience B' } }
+--- config 349 activities 54 elements 349
++++ added activity { activity: 
+   { id: '1667687105',
+     name: 'CRO-9 exp-4.0-data-pla....ut (old - see cro-9.1) > v2: Comparison Chart' } }
+--- config 349 activities 55 elements 349
++++ added activity { activity: 
+   { id: '157045285',
+     name: 'A4T Validation - Analy....g - Next Plans Page 03 > Experience B' } }
+--- config 349 activities 56 elements 349
++++ added activity { activity: 
+   { id: '3772115592',
+     name: 'CRO-311-DTVNOW-D-AB-B3....OW3 with A4T (deleted) > Control' } }
+--- config 349 activities 57 elements 349
++++ added activity { activity: 
+   { id: '3653065096',
+     name: 'CRO-50 - exp-17.0-devi....ompare-table (LIVE QA) > v1: exp-17.0 Emphasized Link' } }
+--- config 349 activities 58 elements 349
++++ added activity { activity: 
+   { id: '1256181783',
+     name: 'P-81-ModifySMBDashBoard-CrazyEgg > Experience A' } }
+--- config 349 activities 59 elements 349
++++ added activity { activity: 
+   { id: '31878091',
+     name: 'CRO-18 - CH Pod 2 : m.....d 032818 (deactivated) > v0' } }
+--- config 349 activities 60 elements 349
++++ added activity { activity: 
+   { id: '3444654517',
+     name: 'CRO-297-M-New Offer Pr....ge - New, AAL - Mobile > Experience B' } }
+--- config 349 activities 61 elements 349
++++ added activity { activity: 
+   { id: '2377666024',
+     name: 'P-61-XT-UF-Prepaid index > Experience B' } }
+--- config 349 activities 62 elements 349
++++ added activity { activity: 
+   { id: '2985169610',
+     name: 'CH - CRO-21 - Cart Layout - QA > v1: Cart Accordion Layout' } }
+--- config 349 activities 63 elements 349
++++ added activity { activity: 
+   { id: '1121209312',
+     name: 'CRO-308 desktop-insura....-zippy-flow Child - QA > v0: Control' } }
+--- config 349 activities 64 elements 349
++++ added activity { activity: 
+   { id: '3010433856',
+     name: 'CRO-308 desktop-insura....zippy-flow Parent - QA > cro-308 Parent' } }
+--- config 349 activities 65 elements 349
++++ added activity { activity: 
+   { id: '255567082',
+     name: 'CRO-247-WI-Iphone LND-....tion on iPhone Marquee > Variant' } }
+--- config 349 activities 66 elements 349
++++ added activity { activity: 
+   { id: '2240948226',
+     name: 'CH - CRO-121 - D - Enc....lling (CHILD | Live QA > v2' } }
+--- config 349 activities 67 elements 349
++++ added activity { activity: 
+   { id: '1142170830',
+     name: 'CRO-281-where-are-goin....nal- DESKTOP - LIVE QA > v1: Added- Where are you going international' } }
+--- config 349 activities 68 elements 349
++++ added activity { activity: 
+   { id: '1074666577',
+     name: 'CRO-10 - exp-2.0-buy-flow-cta-text (QA) > v0' } }
+--- config 349 activities 69 elements 349
++++ added activity { activity: 
+   { id: '489946195',
+     name: 'CRO-291-WI-D-AB-Sustai....oint and $0 down Child > Variant (deleted)' } }
+--- config 349 activities 70 elements 349
++++ added activity { activity: 
+   { id: '227485220',
+     name: 'CRO-354-NEW JULY OFFER.... - New (Mobile) Parent > Experience A' } }
+--- config 349 activities 71 elements 349
++++ added activity { activity: 
+   { id: '1239971237',
+     name: 'Copy of CRO-333-DTV-RW....r and Hat update)  A4T > Experience A' } }
+--- config 349 activities 72 elements 349
++++ added activity { activity: 
+   { id: '3412963819',
+     name: 'CRO-389-RWD-Drive traf....nternet Link (deleted) > Control' } }
+--- config 349 activities 73 elements 349
++++ added activity { activity: 
+   { id: '2822515136',
+     name: 'CRO-354-NEW JULY OFFER.... - New (Mobile) Parent > Experience B' } }
+--- config 349 activities 74 elements 349
++++ added activity { activity: 
+   { id: '2393179603',
+     name: 'CRO-49 - exp-16.0-PDP-review-focus (Live QA) > v1-vertical-layout' } }
+--- config 349 activities 75 elements 349
++++ added activity { activity: 
+   { id: '1279872029',
+     name: 'CRO-104 - exp-20.0-pla....tion-restyle - LIVE QA > v1-cleanup' } }
+--- config 349 activities 76 elements 349
++++ added activity { activity: 
+   { id: '3153308859',
+     name: 'CRO-387-M-NEW JULY 14 ....Mobile) Copy (deleted) > Experience B' } }
+--- config 349 activities 77 elements 349
++++ added activity { activity: 
+   { id: '2514006925',
+     name: 'CH CRO-14: collapse phone numbers > v1' } }
+--- config 349 activities 78 elements 349
++++ added activity { activity: 
+   { id: '484703865',
+     name: 'p-17-Top Selling Recommendation-Child > 14887-21306-1' } }
+--- config 349 activities 79 elements 349
++++ added activity { activity: 
+   { id: '2779480097',
+     name: 'CH-CRO-232-UF-NAV-D quicklinks (LIVE) > v0: Control' } }
+--- config 349 activities 80 elements 349
++++ added activity { activity: 
+   { id: '4282431950',
+     name: 'P-48-AB-D-$30WaivedUpgradeFee_Child > Experience B' } }
+--- config 349 activities 81 elements 349
++++ added activity { activity: 
+   { id: '2502538264',
+     name: 'CRO-127 - exp-23.0-wider-search-input (PAUSED) > v0-control: exp-23.0' } }
+--- config 349 activities 82 elements 349
++++ added activity { activity: 
+   { id: '76403764',
+     name: 'CRO-227-WI-RWD-Remove ....From Devices Page List > Variant' } }
+--- config 349 activities 83 elements 349
++++ added activity { activity: 
+   { id: '964674525',
+     name: 'CRO-244-WI-HME-RWD-Tes.... text for Sign In Copy > Control' } }
+--- config 349 activities 84 elements 349
++++ added activity { activity: 
+   { id: '3069946706',
+     name: 'CH - CRO-101 - exp-12.....urage-auto-pay (CHILD) > v1' } }
+--- config 349 activities 85 elements 349
++++ added activity { activity: 
+   { id: '2238722296',
+     name: 'P-74-CBO_Fathersday_Child > Experience A' } }
+--- config 349 activities 86 elements 349
++++ added activity { activity: 
+   { id: '4029218854',
+     name: 'CH-CRO-183-WI-UF-M Prepaid headband (Live) > v1' } }
+--- config 349 activities 87 elements 349
++++ added activity { activity: 
+   { id: '317720234',
+     name: 'CRO-170 m.exp-16.0-wireless-nav > v0-control' } }
+--- config 349 activities 88 elements 349
++++ added activity { activity: 
+   { id: '1168803064',
+     name: 'CRO-136 - exp-6.0-two-....aries (PAUSED | CHILD) > v1' } }
+--- config 349 activities 89 elements 349
++++ added activity { activity: 
+   { id: '616038378',
+     name: 'CRO-170 exp-16.0-wireless-nav > v0-control' } }
+--- config 349 activities 90 elements 349
++++ added activity { activity: 
+   { id: '563846582',
+     name: 'CH - CRO-141 pod 2: ex....sticky-header (PAUSED) > v0' } }
+--- config 349 activities 91 elements 349
++++ added activity { activity: 
+   { id: '1034192185',
+     name: 'CRO-26 - m.exp-10.0-legal-popup > v1' } }
+--- config 349 activities 92 elements 349
++++ added activity { activity: 
+   { id: '3349437555',
+     name: 'CRO-13 - m.exp-6.0-PDP-sticky-CTA > V0 - control: m.exp-6.0-no-sticky-banner' } }
+--- config 349 activities 93 elements 349
++++ added activity { activity: 
+   { id: '297067516',
+     name: 'P-2-AB Abandoned Cart Modal Child > No modal experience' } }
+--- config 349 activities 94 elements 349
++++ added activity { activity: 
+   { id: '1707709707',
+     name: 'CRO-291 WI-DVL-D-AB Cellphone list price 100% > Variant 2' } }
+--- config 349 activities 95 elements 349
++++ added activity { activity: 
+   { id: '2523452737',
+     name: 'CRO-311-DTVNOW-D-AB-B3....YESNOW3 with A4T Child > Controller' } }
+--- config 349 activities 96 elements 349
++++ added activity { activity: 
+   { id: '2858804052',
+     name: 'CH - CRO-141 pod 2: m.....sticky-header (PAUSED) > v1' } }
+--- config 349 activities 97 elements 349
++++ added activity { activity: 
+   { id: '2411827519',
+     name: 'CRO-184-WI-M-AB-Servin....uct Detail Pages Child > Variant' } }
+--- config 349 activities 98 elements 349
++++ added activity { activity: 
+   { id: '1143033237',
+     name: 'CRO-292-WI-CRT-RWD-A/B....r mobile accounts Copy > Variant' } }
+--- config 349 activities 99 elements 349
++++ added activity { activity: 
+   { id: '2316052778',
+     name: 'CRO-242-WI-RWD-AB-Test....sung 50% vs $395 Child > Variant' } }
+--- config 349 activities 100 elements 349
++++ added activity { activity: 
+   { id: '1408752611',
+     name: 'CRO-379 - data-plan-layout > v0: Control' } }
+--- config 349 activities 101 elements 349
++++ added activity { activity: 
+   { id: '2703826356',
+     name: 'CRO-106 - exp-22.0-dev....accessories (finished) > v1' } }
+--- config 349 activities 102 elements 349
++++ added activity { activity: 
+   { id: '3819704206',
+     name: 'CRO-200-WI-RWD-Upper F....e Flex - CTA Test edit > Variant B' } }
+--- config 349 activities 103 elements 349
++++ added activity { activity: 
+   { id: '3482622945',
+     name: 'CRO-200-WI-RWD-Upper F....e Flex - CTA Test edit > Variant A' } }
+--- config 349 activities 104 elements 349
++++ added activity { activity: 
+   { id: '3458395540',
+     name: 'CRO-234-DTVNow-B-Promo....fer Tile: A/B Test A4T > Experience B' } }
+--- config 349 activities 105 elements 349
++++ added activity { activity: 
+   { id: '2465356610',
+     name: 'CRO-268 Week  1 - RWD ....omotions AB Test Child > Control' } }
+--- config 349 activities 106 elements 349
++++ added activity { activity: 
+   { id: '1234571339',
+     name: 'CRO-268 RWD - Weekly D....omotions AB Test Child > Control' } }
+--- config 349 activities 107 elements 349
++++ added activity { activity: 
+   { id: '1322012723',
+     name: 'CRO-62 WI-HP-D-AB-Marquee split msg testing > Experience C' } }
+--- config 349 activities 108 elements 349
++++ added activity { activity: 
+   { id: '7736861',
+     name: 'CH - CRO-322 - add esupport links Mobile > v2' } }
+--- config 349 activities 109 elements 349
++++ added activity { activity: 
+   { id: '140916773',
+     name: 'CRO-190-AB-B-BenefitsMessaging_Child > Experience B' } }
+--- config 349 activities 110 elements 349
++++ added activity { activity: 
+   { id: '3398037316',
+     name: 'CRO-268 RWD - Weekly D....omotions AB Test Child > Variant' } }
+--- config 349 activities 111 elements 349
++++ added activity { activity: 
+   { id: '325361607',
+     name: 'CRO-252-DTVNow-B-AB-DTVNow_Rokunow Vanity A4T > Experience A' } }
+--- config 349 activities 112 elements 349
++++ added activity { activity: 
+   { id: '367648878',
+     name: 'CRO-50 - exp-17.0-device-pmt-compare-table > v2: exp-17.0 Restyled Protection Options' } }
+--- config 349 activities 113 elements 349
++++ added activity { activity: 
+   { id: '1160458201',
+     name: 'CRO-149 WI-D-AB Device List Page BOGO > control' } }
+--- config 349 activities 114 elements 349
++++ added activity { activity: 
+   { id: '2691689564',
+     name: 'CRO-384-D-NEW JULY 14 ....s page - New (Desktop) > Experience A' } }
+--- config 349 activities 115 elements 349
++++ added activity { activity: 
+   { id: '1579707977',
+     name: 'CRO-9.1 data-plan-layout > v1: Stacked Boxes' } }
+--- config 349 activities 116 elements 349
++++ added activity { activity: 
+   { id: '3326080557',
+     name: 'CH-CRO-116-SS-SUP-M-AB....n-contact-page-(child) > V0' } }
+--- config 349 activities 117 elements 349
++++ added activity { activity: 
+   { id: '932858929',
+     name: 'CRO-280-HS-M-AB-CRO-Us....re in Mobile Only Copy > Control' } }
+--- config 349 activities 118 elements 349
++++ added activity { activity: 
+   { id: '2945132484',
+     name: 'CRO-284-WI-D-Digital E....lly Band Repositioning > Control' } }
+--- config 349 activities 119 elements 349
++++ added activity { activity: 
+   { id: '3950377887',
+     name: 'CRO-68 Monitor_CRO68_variant1 > Experience A' } }
+--- config 349 activities 120 elements 349
++++ added activity { activity: 
+   { id: '953626440',
+     name: 'CRO-43 m.exp-11.0-dtv-rearrange (LIVE QA w/ A4T) > V1' } }
+--- config 349 activities 121 elements 349
++++ added activity { activity: 
+   { id: '3663910570',
+     name: 'CH-CRO-116-SS-SUP-D-AB....n-contact-page-(child) > V1' } }
+--- config 349 activities 122 elements 349
++++ added activity { activity: 
+   { id: '2870969981',
+     name: 'CRO-200-WI-RWD-Upper F....e Flex - CTA Test Copy > Control' } }
+--- config 349 activities 123 elements 349
++++ added activity { activity: 
+   { id: '3514759332',
+     name: 'CRO-200-WI-RWD-Upper F....e Flex - CTA Test Copy > Variant A' } }
+--- config 349 activities 124 elements 349
++++ added activity { activity: 
+   { id: '386339381',
+     name: 'CRO-131 - exp-15.0-sec....(PAUSED) (deactivated) > v0' } }
+--- config 349 activities 125 elements 349
++++ added activity { activity: 
+   { id: '372307963',
+     name: 'CRO-50 - exp-17.0-devi....ompare-table (LIVE QA) > v2: exp-17.0 Restyled Protection Options' } }
+--- config 349 activities 126 elements 349
++++ added activity { activity: 
+   { id: '3541876277',
+     name: 'A4T Validation - Analy....ng - Thank You Page 01 > Experience B' } }
+--- config 349 activities 127 elements 349
++++ added activity { activity: 
+   { id: '3686420324',
+     name: 'CRO-18 - CH Pod 2 : m.....d 032818 (deactivated) > v1' } }
+--- config 349 activities 128 elements 349
++++ added activity { activity: 
+   { id: '1802043475',
+     name: 'P-61-XT-UF-PrepaidPlan > Experience B' } }
+--- config 349 activities 129 elements 349
++++ added activity { activity: 
+   { id: '1654074258',
+     name: 'P-61-XT-UF-PrepaidPhones > Experience B' } }
+--- config 349 activities 130 elements 349
++++ added activity { activity: 
+   { id: '1926147392',
+     name: 'CH - CRO-21 - Cart Layout - QA > v0: Control' } }
+--- config 349 activities 131 elements 349
++++ added activity { activity: 
+   { id: '621494528',
+     name: 'CRO-308 desktop-insura....-zippy-flow Child - QA > v2: Layout + Copy + Error Messaging + Modal' } }
+--- config 349 activities 132 elements 349
++++ added activity { activity: 
+   { id: '1701655711',
+     name: 'CRO-333-DTV-RWD-XT-T&T....Hat update) Child- Old > Experience A' } }
+--- config 349 activities 133 elements 349
++++ added activity { activity: 
+   { id: '1442937054',
+     name: 'CRO-333-DTV-RWD-XT-T&T.... and Hat update) Child > Experience A' } }
+--- config 349 activities 134 elements 349
++++ added activity { activity: 
+   { id: '1603215653',
+     name: 'CRO-281-where-are-goin....nal- DESKTOP - LIVE QA > v2: Centered- Where are you going international' } }
+--- config 349 activities 135 elements 349
++++ added activity { activity: 
+   { id: '1085297985',
+     name: 'CH - CRO-41 pod 1: m.e....-shipping-mssg LIVE QA > v2' } }
+--- config 349 activities 136 elements 349
++++ added activity { activity: 
+   { id: '3024593438',
+     name: 'CH - CRO-121 - D - Enc....lling (CHILD | Live QA > v1' } }
+--- config 349 activities 137 elements 349
++++ added activity { activity: 
+   { id: '2288381064',
+     name: 'CRO-259 HS-RWD-AB-Supp....ers page (deactivated) > Variant 1' } }
+--- config 349 activities 138 elements 349
++++ added activity { activity: 
+   { id: '1230828245',
+     name: 'CRO-329-WI-Stores-RWD-....e Only Offer (deleted) > Variant' } }
+--- config 349 activities 139 elements 349
++++ added activity { activity: 
+   { id: '4155210191',
+     name: 'Deleted CRO-253 WI-RWD....uee A/B Test (deleted) > Variant' } }
+--- config 349 activities 140 elements 349
++++ added activity { activity: 
+   { id: '2771973780',
+     name: 'CRO-390-RWD-Drive traf....- Voice Link (deleted) > Variant' } }
+--- config 349 activities 141 elements 349
++++ added activity { activity: 
+   { id: '3502398792',
+     name: 'CH - CRO-41 pod 1: m.e....-shipping-mssg LIVE QA > v0' } }
+--- config 349 activities 142 elements 349
++++ added activity { activity: 
+   { id: '3083926093',
+     name: 'CRO-24 m.exp-14.0-pdp-....ar-placement (LIVE QA) > V2 - m.exp-14.0-reviews-by-price' } }
+--- config 349 activities 143 elements 349
++++ added activity { activity: 
+   { id: '4159318987',
+     name: 'CRO-390-RWD-Drive traf....- Voice Link (deleted) > Control' } }
+--- config 349 activities 144 elements 349
++++ added activity { activity: 
+   { id: '1690702045',
+     name: 'CH-CRO-128-wireline-first-bill (LIVE QA) > V0' } }
+--- config 349 activities 145 elements 349
++++ added activity { activity: 
+   { id: '2699512466',
+     name: 'CRO-TEST-AB-DTVNOW-B-A....ith A4T Copy (deleted) > No Yes3 now' } }
+--- config 349 activities 146 elements 349
++++ added activity { activity: 
+   { id: '4194232769',
+     name: 'CRO-370-RWD-LandingPage-Homepage takeover test > Control' } }
+--- config 349 activities 147 elements 349
++++ added activity { activity: 
+   { id: '2180226747',
+     name: 'P-48-AB-D-$30WaivedUpgradeFee_Child_OverView > Experience A' } }
+--- config 349 activities 148 elements 349
++++ added activity { activity: 
+   { id: '1715633597',
+     name: 'CRO-291-WI-D-AB-Sustai....int and $0 down  Child > Variant' } }
+--- config 349 activities 149 elements 349
++++ added activity { activity: 
+   { id: '16542789',
+     name: 'CRO-68 WI-CHK-B-AB -En....S320400 with API Child > Control' } }
+--- config 349 activities 150 elements 349
++++ added activity { activity: 
+   { id: '3838707306',
+     name: 'CRO-266 WI-RWD-Unlimit....bal Nav A/B Test Child > Variant 1' } }
+--- config 349 activities 151 elements 349
++++ added activity { activity: 
+   { id: '1063936255',
+     name: 'CRO-244-WI-HME-RWD-Tes.... text for Sign In Copy > Variant 3' } }
+--- config 349 activities 152 elements 349
++++ added activity { activity: 
+   { id: '1148294963',
+     name: 'CH-CRO-183-WI-UF-D Prepaid headband (Live) > v1' } }
+--- config 349 activities 153 elements 349
++++ added activity { activity: 
+   { id: '2866449888',
+     name: 'CRO-169- International Card on CBO (CHILD) > v0: Control' } }
+--- config 349 activities 154 elements 349
++++ added activity { activity: 
+   { id: '1035705500',
+     name: 'CRO-279 Provide Predic.... functionality AB Test > Control' } }
+--- config 349 activities 155 elements 349
++++ added activity { activity: 
+   { id: '1770696648',
+     name: 'CH-CRO-138-SS-CBO-D cbo-device-support (CHILD) > v1' } }
+--- config 349 activities 156 elements 349
++++ added activity { activity: 
+   { id: '3066964981',
+     name: 'CRO-44 - m.exp-15.0-PLP-filter-sticky-apply-CTA > v0-control' } }
+--- config 349 activities 157 elements 349
++++ added activity { activity: 
+   { id: '1648379820',
+     name: 'CRO-234-DTVNow-B-Promo....fer Tile: A/B Test A4T > Experience A' } }
+--- config 349 activities 158 elements 349
++++ added activity { activity: 
+   { id: '1988066062',
+     name: 'CH - CRO-101 - m.exp-1....urage-auto-pay (CHILD) > v0' } }
+--- config 349 activities 159 elements 349
++++ added activity { activity: 
+   { id: '1735720657',
+     name: 'CRO-13 - m.exp-6.0-PDP-sticky-CTA > V1 - m.exp-6.0-stacked-sticky-continue-cta' } }
+--- config 349 activities 160 elements 349
++++ added activity { activity: 
+   { id: '718349299',
+     name: 'CRO-259-HS-RWD-AB-Supp....Shop Offers page Child > Variant 2' } }
+--- config 349 activities 161 elements 349
++++ added activity { activity: 
+   { id: '4132523029',
+     name: 'CRO-136 - exp-6.0-two-....| NOT CURRENT VERSION) > v0' } }
+--- config 349 activities 162 elements 349
++++ added activity { activity: 
+   { id: '4262394556',
+     name: 'CRO-278-WI-RWD-AB-Unli....r Line vs. Total Price > Variant' } }
+--- config 349 activities 163 elements 349
++++ added activity { activity: 
+   { id: '3215806034',
+     name: 'CRO-280-HS-M-AB-CRO-Us....re in Mobile Only Copy > Variant B' } }
+--- config 349 activities 164 elements 349
++++ added activity { activity: 
+   { id: '3216832633',
+     name: 'CRO-25 - exp-11.0-new-returning-modal > v2-option-modal' } }
+--- config 349 activities 165 elements 349
++++ added activity { activity: 
+   { id: '3666516377',
+     name: 'CRO-268 Week  3 - RWD ....omotions AB Test Child > Variant 2' } }
+--- config 349 activities 166 elements 349
++++ added activity { activity: 
+   { id: '2927976315',
+     name: 'CRO-25 - exp-11.0-new-returning-modal > v1-simplified-modal' } }
+--- config 349 activities 167 elements 349
++++ added activity { activity: 
+   { id: '3571970066',
+     name: 'CRO-379 - data-plan-layout > v1: Stacked Boxes' } }
+--- config 349 activities 168 elements 349
++++ added activity { activity: 
+   { id: '3253486968',
+     name: 'CRO-268 Week  2 - RWD ....omotions AB Test Child > Variant 1' } }
+--- config 349 activities 169 elements 349
++++ added activity { activity: 
+   { id: '2281192106',
+     name: 'CRO-172 - exp-20.0-prepaid-links (LIVE) > v0' } }
+--- config 349 activities 170 elements 349
++++ added activity { activity: 
+   { id: '962194812',
+     name: 'CRO-311-AB-DTVNOW-B-AB-B3G1 Vs. YESNOW3 with A4T > No REALDEAL' } }
+--- config 349 activities 171 elements 349
++++ added activity { activity: 
+   { id: '3875192742',
+     name: 'CRO-239-D-New Offer Pr....w, AAL - Desktop Child > Control' } }
+--- config 349 activities 172 elements 349
++++ added activity { activity: 
+   { id: '604617658',
+     name: 'CRO-239-D-New Offer Pr....New, AAL - Desktop A4T > Experience B' } }
+--- config 349 activities 173 elements 349
++++ added activity { activity: 
+   { id: '190006744',
+     name: 'CRO-106 - exp-22.0-dev....accessories (finished) > v0' } }
+--- config 349 activities 174 elements 349
++++ added activity { activity: 
+   { id: '2707916772',
+     name: 'CRO-268 Week  1 - RWD ....omotions AB Test Child > Variant 1' } }
+--- config 349 activities 175 elements 349
++++ added activity { activity: 
+   { id: '2082565081',
+     name: 'CH - CRO-322 - add esupport links Mobile > v1' } }
+--- config 349 activities 176 elements 349
++++ added activity { activity: 
+   { id: '563199978',
+     name: 'CRO-43  exp-12.0-dtv-r....e (LIVE Prod/with A4T) > V1: exp-12.0-separated (pod-2)' } }
+--- config 349 activities 177 elements 349
++++ added activity { activity: 
+   { id: '919756275',
+     name: 'CRO-268 Week  4 - RWD ....omotions AB Test Child > Control' } }
+--- config 349 activities 178 elements 349
++++ added activity { activity: 
+   { id: '591604887',
+     name: 'CRO-268 Week  4 - RWD ....omotions AB Test Child > Variant 1' } }
+--- config 349 activities 179 elements 349
++++ added activity { activity: 
+   { id: '1640398846',
+     name: 'CRO-159-B-Encourage cu.... during MOVE flow Copy > Control' } }
+--- config 349 activities 180 elements 349
++++ added activity { activity: 
+   { id: '1604132996',
+     name: 'CRO-50 - exp-17.0-device-pmt-compare-table > v0: exp-17.0 Control' } }
+--- config 349 activities 181 elements 349
++++ added activity { activity: 
+   { id: '2525721537',
+     name: 'CH - CRO-322 - Add eSupport Links Desktop > v1' } }
+--- config 349 activities 182 elements 349
++++ added activity { activity: 
+   { id: '1784690150',
+     name: 'CRO-384-D-NEW JULY 14 ....s page - New (Desktop) > Experience B' } }
+--- config 349 activities 183 elements 349
++++ added activity { activity: 
+   { id: '959045365',
+     name: 'CRO-11 - m.exp-2.0-plans-forward (PAUSED) > v2: m.exp-2.0-plans-forward (pod-2)' } }
+--- config 349 activities 184 elements 349
++++ added activity { activity: 
+   { id: '2665819272',
+     name: 'CH-CRO-392-SS-CBO-M cb....LIVE QA) (deactivated) > v1' } }
+--- config 349 activities 185 elements 349
++++ added activity { activity: 
+   { id: '378693840',
+     name: 'CRO-383--RWD-DTV-Addin....directv page Copy Copy > Control' } }
+--- config 349 activities 186 elements 349
++++ added activity { activity: 
+   { id: '984346503',
+     name: 'CRO-75 - exp-18.0-device-pmt-layout > v1: Side by Side Tiles' } }
+--- config 349 activities 187 elements 349
++++ added activity { activity: 
+   { id: '301071564',
+     name: 'CRO-311-DTVNOW-D-AB-B3....OW3 with A4T (deleted) > No B3G1' } }
+--- config 349 activities 188 elements 349
++++ added activity { activity: 
+   { id: '1486622094',
+     name: 'CH-CRO-116-SS-SUP-D-AB....n-contact-page-(child) > V0' } }
+--- config 349 activities 189 elements 349
++++ added activity { activity: 
+   { id: '2987644344',
+     name: 'CRO-9 exp-4.0-data-pla....ut (old - see cro-9.1) > v1: Stacked Boxes' } }
+--- config 349 activities 190 elements 349
++++ added activity { activity: 
+   { id: '3659624120',
+     name: 'CRO-200-WI-RWD-Upper F....e Flex - CTA Test Copy > Variant C' } }
+--- config 349 activities 191 elements 349
++++ added activity { activity: 
+   { id: '1411875599',
+     name: 'CRO-311-DTVNOW-D-AB-B3....OW3 with A4T (deleted) > No YesNow3' } }
+--- config 349 activities 192 elements 349
++++ added activity { activity: 
+   { id: '1105448823',
+     name: 'CRO-353-NEW JULY OFFER.... - New (Desktop) child > Variant' } }
+--- config 349 activities 193 elements 349
++++ added activity { activity: 
+   { id: '2039315440',
+     name: 'CRO-110-WI-RWD-AB-Display Best Seller badge > Variant' } }
+--- config 349 activities 194 elements 349
++++ added activity { activity: 
+   { id: '2733300011',
+     name: 'CRO-18 CH - Pod2 - exp....d 032818 (deactivated) > v1' } }
+--- config 349 activities 195 elements 349
++++ added activity { activity: 
+   { id: '743952799',
+     name: 'CRO-297-M-New Offer Pr....ge - New, AAL - Mobile > Experience A' } }
+--- config 349 activities 196 elements 349
++++ added activity { activity: 
+   { id: '2101440332',
+     name: 'Monitoring campaign 333 > Experience A' } }
+--- config 349 activities 197 elements 349
++++ added activity { activity: 
+   { id: '4047637674',
+     name: 'A4T Validation - Analy....ng - Thank You Page 02 > Experience B' } }
+--- config 349 activities 198 elements 349
++++ added activity { activity: 
+   { id: '24310141',
+     name: 'CRO-157-HS-RWD-Lifesty....mmingonSTIMlandingpage > Control' } }
+--- config 349 activities 199 elements 349
++++ added activity { activity: { id: '1714140742', name: 'CH - CRO-121 - Parent > v0' } }
+--- config 349 activities 200 elements 349
++++ added activity { activity: 
+   { id: '456033181',
+     name: 'A4T Validation - Analy.... - Shop iPhone Page 03 > Experience B' } }
+--- config 349 activities 201 elements 349
++++ added activity { activity: 
+   { id: '2498736868',
+     name: 'CRO-324-RWD-Paid Searc.... (U-verse Bundles LOB) > Variant' } }
+--- config 349 activities 202 elements 349
++++ added activity { activity: 
+   { id: '233942379',
+     name: 'CRO-104 - exp-20.0-pla....tion-restyle - LIVE QA > v2-cleanup-plus-context' } }
+--- config 349 activities 203 elements 349
++++ added activity { activity: 
+   { id: '3728448141',
+     name: 'CRO-396 WI-AB-CHK-RWD parent > Experience A' } }
+--- config 349 activities 204 elements 349
++++ added activity { activity: 
+   { id: '523718381',
+     name: 'CRO-110-WI-RWD-AB-Display Best Seller badge > Control' } }
+--- config 349 activities 205 elements 349
++++ added activity { activity: 
+   { id: '3678385935',
+     name: 'CRO-354-NEW JULY OFFER....e - New (Mobile) child > Variant' } }
+--- config 349 activities 206 elements 349
++++ added activity { activity: 
+   { id: '3295819517',
+     name: 'CRO-172 - m.exp-27.0-prepaid-links (Paused) > v1' } }
+--- config 349 activities 207 elements 349
++++ added activity { activity: 
+   { id: '399929177',
+     name: 'CRO-261-UV-ConfigTV-AB....rt in the Provide flow > Variant' } }
+--- config 349 activities 208 elements 349
++++ added activity { activity: 
+   { id: '3301058213',
+     name: 'CRO-396 WI-AB-CHK-RWD child > Experience C' } }
+--- config 349 activities 209 elements 349
++++ added activity { activity: 
+   { id: '2251316036',
+     name: 'CRO-396 WI-chk-AB-RWD ....ions in Zippy Checkout > no_vip_no_2day' } }
+--- config 349 activities 210 elements 349
++++ added activity { activity: 
+   { id: '4026581299',
+     name: 'CRO-10 CH pod-1:  exp-2.0-buy-flow-cta-text > V2 - TEMP 4 QA (deleted)' } }
+--- config 349 activities 211 elements 349
++++ added activity { activity: 
+   { id: '1199415328',
+     name: 'CRO-354-NEW JULY OFFER....e - New (Mobile) child > Control' } }
+--- config 349 activities 212 elements 349
++++ added activity { activity: 
+   { id: '1353021625',
+     name: 'CRO-261-UV-ConfigTV-AB....rt in the Provide flow > Control' } }
+--- config 349 activities 213 elements 349
++++ added activity { activity: 
+   { id: '3411292056',
+     name: 'CRO-370-RWD-LandingPage-Homepage takeover test > Variant' } }
+--- config 349 activities 214 elements 349
++++ added activity { activity: 
+   { id: '3397389487',
+     name: 'P-64-CBO-Fathersday-Child > Experience A' } }
+--- config 349 activities 215 elements 349
++++ added activity { activity: 
+   { id: '4290596577',
+     name: 'CRO-136 m.exp-6.0-two-....| NOT CURRENT VERSION) > v1' } }
+--- config 349 activities 216 elements 349
++++ added activity { activity: 
+   { id: '2389534619',
+     name: 'CRO-68 WI-CHK-B-AB -En....S320400 with API Child > Variant 1' } }
+--- config 349 activities 217 elements 349
++++ added activity { activity: 
+   { id: '47815424',
+     name: 'CRO-266 WI-RWD-Unlimit....bal Nav A/B Test Child > Control' } }
+--- config 349 activities 218 elements 349
++++ added activity { activity: 
+   { id: '1920526816',
+     name: 'CRO-244-WI-HME-RWD-Tes.... text for Sign In Copy > Variant 2' } }
+--- config 349 activities 219 elements 349
++++ added activity { activity: 
+   { id: '3123666400',
+     name: 'CRO-137 WI-AB-D unlimited banner in buyflow > Experience B' } }
+--- config 349 activities 220 elements 349
++++ added activity { activity: 
+   { id: '3262174241',
+     name: 'CRO-169- International Card on CBO (CHILD) > v1: international card on cbo' } }
+--- config 349 activities 221 elements 349
++++ added activity { activity: 
+   { id: '861050049',
+     name: 'CRO-169- Mobile - Inte....al Card on CBO (CHILD) > v0: Control' } }
+--- config 349 activities 222 elements 349
++++ added activity { activity: 
+   { id: '747535804',
+     name: 'CH-CRO-138-SS-CBO-D cbo-device-support (CHILD) > v0' } }
+--- config 349 activities 223 elements 349
++++ added activity { activity: 
+   { id: '3608938017',
+     name: 'CRO-136 - exp-6.0-two-....aries (PAUSED | CHILD) > v0' } }
+--- config 349 activities 224 elements 349
++++ added activity { activity: 
+   { id: '2330227462',
+     name: 'CRO-296-WI-RWD-AB-Remo....ice Config page  Child > Variant 2' } }
+--- config 349 activities 225 elements 349
++++ added activity { activity: 
+   { id: '1856807487',
+     name: 'CH - CRO-101 - m.exp-1....urage-auto-pay (CHILD) > v1' } }
+--- config 349 activities 226 elements 349
++++ added activity { activity: 
+   { id: '297381332',
+     name: 'CRO-13 - m.exp-6.0-PDP-sticky-CTA > V2 - m.exp-6.0-bottom-sticky-continue-cta' } }
+--- config 349 activities 227 elements 349
++++ added activity { activity: 
+   { id: '2807756567',
+     name: 'CRO-259-HS-RWD-AB-Supp....Shop Offers page Child > Variant 3' } }
+--- config 349 activities 228 elements 349
++++ added activity { activity: 
+   { id: '2599667986',
+     name: 'CRO-136 - exp-6.0-two-....| NOT CURRENT VERSION) > v1' } }
+--- config 349 activities 229 elements 349
++++ added activity { activity: { id: '1077270415', name: 'P-69-AB-VirtualCart > Experience B' } }
+--- config 349 activities 230 elements 349
++++ added activity { activity: 
+   { id: '365258033',
+     name: 'CRO-311-DTVNOW-D-AB-B3....YESNOW3 with A4T Child > No YesNow3' } }
+--- config 349 activities 231 elements 349
++++ added activity { activity: 
+   { id: '3347542176',
+     name: 'CRO-333-DTV-RWD-XT-T&T....r and Hat update)  A4T > Experience A' } }
+--- config 349 activities 232 elements 349
++++ added activity { activity: 
+   { id: '837641909',
+     name: 'CRO-268 Week  2 - RWD ....omotions AB Test Child > Control' } }
+--- config 349 activities 233 elements 349
++++ added activity { activity: 
+   { id: '1420938692',
+     name: 'CRO-292-WI-CRT-RWD-A/B....r mobile accounts Copy > Control' } }
+--- config 349 activities 234 elements 349
++++ added activity { activity: 
+   { id: '1663820219',
+     name: 'CRO-297-M-New Offer Pr....ew, AAL - Mobile Child > Variant 1' } }
+--- config 349 activities 235 elements 349
++++ added activity { activity: 
+   { id: '3025580490',
+     name: 'CRO-268 Week  2 - RWD ....omotions AB Test Child > Variant 2' } }
+--- config 349 activities 236 elements 349
++++ added activity { activity: 
+   { id: '4115553541',
+     name: 'CRO-172 - exp-20.0-prepaid-links (LIVE) > v1' } }
+--- config 349 activities 237 elements 349
++++ added activity { activity: 
+   { id: '554071430',
+     name: 'CRO-178 WI-LND-RWD-AB-....ed in associate banner > Experience A' } }
+--- config 349 activities 238 elements 349
++++ added activity { activity: 
+   { id: '801994132',
+     name: 'CRO-200-WI-RWD-Upper F....e Flex - CTA Test edit > Variant C' } }
+--- config 349 activities 239 elements 349
++++ added activity { activity: 
+   { id: '2787002282',
+     name: 'CRO-371-HS-RWD-AB-moda....Shop Offers page Child > alert' } }
+--- config 349 activities 240 elements 349
++++ added activity { activity: 
+   { id: '963070190',
+     name: 'CRO-122-Modify Deliver.... page - New-Child Copy > Control' } }
+--- config 349 activities 241 elements 349
++++ added activity { activity: 
+   { id: '3433680119',
+     name: 'CRO-268 Week  1 - RWD ....omotions AB Test Child > Variant 2' } }
+--- config 349 activities 242 elements 349
++++ added activity { activity: 
+   { id: '520172893',
+     name: 'CRO-253 WI-RWD - Test ....Marquee A/B Test Child > Experience B' } }
+--- config 349 activities 243 elements 349
++++ added activity { activity: 
+   { id: '1704434725',
+     name: 'CRO-239-D-New Offer Pr....New, AAL - Desktop A4T > Experience A' } }
+--- config 349 activities 244 elements 349
++++ added activity { activity: 
+   { id: '1350767504',
+     name: 'CRO-190-AB-B-BenefitsMessaging_Child > Experience A' } }
+--- config 349 activities 245 elements 349
++++ added activity { activity: 
+   { id: '3582261745',
+     name: 'CRO-268 Week  4 - RWD ....omotions AB Test Child > Variant 2' } }
+--- config 349 activities 246 elements 349
++++ added activity { activity: 
+   { id: '261203774',
+     name: 'CRO-252-DTVNow-B-AB-DTVNow_Rokunow Vanity A4T > Experience B' } }
+--- config 349 activities 247 elements 349
++++ added activity { activity: 
+   { id: '278954700',
+     name: 'CRO-149 WI-D-AB Device List Page BOGO > variant' } }
+--- config 349 activities 248 elements 349
++++ added activity { activity: 
+   { id: '385274300',
+     name: 'CRO-387-M-NEW JULY 14 ....ls page - New (Mobile) > Experience A' } }
+--- config 349 activities 249 elements 349
++++ added activity { activity: 
+   { id: '971746107',
+     name: 'CH - CRO-322 - Add eSupport Links Desktop > v2' } }
+--- config 349 activities 250 elements 349
++++ added activity { activity: 
+   { id: '4236242295',
+     name: 'CRO-30 CH pod-1: exp-1.0-PDP-sticky-CTA (PROD) > V0' } }
+--- config 349 activities 251 elements 349
++++ added activity { activity: 
+   { id: '1779186957',
+     name: 'CH-CRO-116-SS-SUP-M-AB....n-contact-page-(child) > V1' } }
+--- config 349 activities 252 elements 349
++++ added activity { activity: 
+   { id: '3551959862',
+     name: 'CRO-43  exp-12.0-dtv-r....e (LIVE Prod/with A4T) > V0: exp-12.0-control (pod-2)' } }
+--- config 349 activities 253 elements 349
++++ added activity { activity: 
+   { id: '1205699666',
+     name: 'CRO-68 Monitor_CRO68_control > Experience A' } }
+--- config 349 activities 254 elements 349
++++ added activity { activity: 
+   { id: '1101101941',
+     name: 'CRO-75 - exp-18.0-device-pmt-layout > v0: Control' } }
+--- config 349 activities 255 elements 349
++++ added activity { activity: 
+   { id: '746579940',
+     name: 'CRO-371-HS-RWD-AB-moda....Shop Offers page Child > Control' } }
+--- config 349 activities 256 elements 349
++++ added activity { activity: 
+   { id: '2626073637',
+     name: 'CRO-9 exp-4.0-data-pla....ut (old - see cro-9.1) > v0: Control' } }
+--- config 349 activities 257 elements 349
++++ added activity { activity: 
+   { id: '3152814361',
+     name: 'CRO-353-NEW JULY OFFER....- New (Desktop) Parent > Experience A' } }
+--- config 349 activities 258 elements 349
++++ added activity { activity: 
+   { id: '307839938',
+     name: 'P-20 Empty Cart Page -....ing Carousal (deleted) > No Recommendation' } }
+--- config 349 activities 259 elements 349
++++ added activity { activity: 
+   { id: '1537294732',
+     name: 'CRO-338/158-DTVNow-B-A....w_AppleTV Vanity_Child > Variant' } }
+--- config 349 activities 260 elements 349
++++ added activity { activity: 
+   { id: '4242632540',
+     name: 'CRO-380/254/150-DTVNOW....v now links on att.com > DFW' } }
+--- config 349 activities 261 elements 349
++++ added activity { activity: 
+   { id: '140565299',
+     name: 'CRO-284-WI-D-Digital E....lly Band Repositioning > Variant' } }
+--- config 349 activities 262 elements 349
++++ added activity { activity: 
+   { id: '1621921405',
+     name: 'CRO-18 CH - Pod2 - exp....d 032818 (deactivated) > v0' } }
+--- config 349 activities 263 elements 349
++++ added activity { activity: 
+   { id: '2901023458',
+     name: 'CRO-252-DTVNow-B-AB-DT....unow Vanity_Child Copy > Variant' } }
+--- config 349 activities 264 elements 349
++++ added activity { activity: 
+   { id: '3045948733',
+     name: 'CRO-14 CH A4T WI-Conta.... numbers (deactivated) > v0' } }
+--- config 349 activities 265 elements 349
++++ added activity { activity: 
+   { id: '1041643945',
+     name: 'CRO-157-HS-RWD-Lifesty....mmingonSTIMlandingpage > Variant' } }
+--- config 349 activities 266 elements 349
++++ added activity { activity: 
+   { id: '2770416956',
+     name: 'CRO-308 desktop-insura....-zippy-flow Child - QA > v3: Layout + Copy + Error Messaging' } }
+--- config 349 activities 267 elements 349
++++ added activity { activity: 
+   { id: '2812344806',
+     name: 'CRO-41 Parent Activation (LIVE QA) > v0' } }
+--- config 349 activities 268 elements 349
++++ added activity { activity: 
+   { id: '2309090398',
+     name: 'CRO-324-RWD-Paid Searc.... (U-verse Bundles LOB) > Control' } }
+--- config 349 activities 269 elements 349
++++ added activity { activity: 
+   { id: '2501900179',
+     name: 'P-83-PlanBanner-Child (deleted) > Experience A' } }
+--- config 349 activities 270 elements 349
++++ added activity { activity: 
+   { id: '3064902618',
+     name: 'CRO-281-where-are-goin....onal- MOBILE - LIVE QA > v2: Centered- Where are you going international' } }
+--- config 349 activities 271 elements 349
++++ added activity { activity: 
+   { id: '680189070',
+     name: 'CRO-281-where-are-goin....onal- MOBILE - LIVE QA > v1: Added- Where are you going international' } }
+--- config 349 activities 272 elements 349
++++ added activity { activity: 
+   { id: '568950869',
+     name: 'CRO-396 WI-AB-CHK-RWD child > Experience B' } }
+--- config 349 activities 273 elements 349
++++ added activity { activity: 
+   { id: '2431005866',
+     name: 'CRO-75 - exp-18.0-device-pmt-layout > v2: All Options in a Row' } }
+--- config 349 activities 274 elements 349
++++ added activity { activity: 
+   { id: '95774549',
+     name: 'Deleted CRO-242 WI-RWD.... $395 Parent (deleted) > Variant' } }
+--- config 349 activities 275 elements 349
++++ added activity { activity: 
+   { id: '241352625',
+     name: 'CRO-296-New Child (deactivated) > Control' } }
+--- config 349 activities 276 elements 349
++++ added activity { activity: 
+   { id: '230844288',
+     name: 'CH - CRO-121 - M - Enc....ing (CHILD | Live QA ) > v2' } }
+--- config 349 activities 277 elements 349
++++ added activity { activity: 
+   { id: '2001259455',
+     name: 'CRO-324-RWD-Paid Searc....erse Bundles LOB) Copy > Variant' } }
+--- config 349 activities 278 elements 349
++++ added activity { activity: 
+   { id: '3478505343',
+     name: 'CRO-344-HS-RWD-AB-Affi.... Landing Page Redesign > Control' } }
+--- config 349 activities 279 elements 349
++++ added activity { activity: 
+   { id: '1556449330',
+     name: 'CH - CRO-106 pod 1: ex....pmt-remove-accessories > v2 (deleted)' } }
+--- config 349 activities 280 elements 349
++++ added activity { activity: 
+   { id: '965986781',
+     name: 'CH CRO-14: collapse phone numbers > v0' } }
+--- config 349 activities 281 elements 349
++++ added activity { activity: 
+   { id: '3239818734',
+     name: 'CRO-202-RWD-AB-Global Nav International link A4T > Control' } }
+--- config 349 activities 282 elements 349
++++ added activity { activity: 
+   { id: '475449697',
+     name: 'CH-CRO-232-UF-NAV-D quicklinks (LIVE) > v1: Quicklinks' } }
+--- config 349 activities 283 elements 349
++++ added activity { activity: 
+   { id: '2563000663',
+     name: 'CRO-136 m.exp-6.0-two-....| NOT CURRENT VERSION) > v0' } }
+--- config 349 activities 284 elements 349
++++ added activity { activity: 
+   { id: '1798239530',
+     name: 'CRO-68 WI-CHK-B-AB -En....S320400 with API Child > Variant 2' } }
+--- config 349 activities 285 elements 349
++++ added activity { activity: 
+   { id: '58153681',
+     name: 'CRO-227-WI-RWD-Remove ....From Devices Page List > Control' } }
+--- config 349 activities 286 elements 349
++++ added activity { activity: 
+   { id: '304301839',
+     name: 'CRO-244-WI-HME-RWD-Tes.... text for Sign In Copy > Variant 1' } }
+--- config 349 activities 287 elements 349
++++ added activity { activity: 
+   { id: '228523784',
+     name: 'CRO-350-DIRECTV NOW Th....ff for Organic Traffic > Experience A' } }
+--- config 349 activities 288 elements 349
++++ added activity { activity: 
+   { id: '402168545',
+     name: 'P-73-PlanBanner-Child > Experience A' } }
+--- config 349 activities 289 elements 349
++++ added activity { activity: 
+   { id: '1628843629',
+     name: 'CRO-169- Mobile - Inte....al Card on CBO (CHILD) > v1: mobile international card on cbo' } }
+--- config 349 activities 290 elements 349
++++ added activity { activity: 
+   { id: '3779371352',
+     name: 'CRO-170 m.exp-16.0-wireless-nav > v1-sticky-sub-nav' } }
+--- config 349 activities 291 elements 349
++++ added activity { activity: 
+   { id: '514159449',
+     name: 'CRO-170 exp-16.0-wireless-nav > v1-sticky-sub-nav' } }
+--- config 349 activities 292 elements 349
++++ added activity { activity: 
+   { id: '534274751',
+     name: 'CH - CRO-141 pod 2: ex....sticky-header (PAUSED) > v1' } }
+--- config 349 activities 293 elements 349
++++ added activity { activity: 
+   { id: '3258740267',
+     name: 'CRO-296-WI-RWD-AB-Remo....ice Config page  Child > Control' } }
+--- config 349 activities 294 elements 349
++++ added activity { activity: 
+   { id: '379446221',
+     name: 'CRO-26 - m.exp-10.0-legal-popup > v0' } }
+--- config 349 activities 295 elements 349
++++ added activity { activity: 
+   { id: '2839860242',
+     name: 'CRO-259-HS-RWD-AB-Supp....Shop Offers page Child > Control' } }
+--- config 349 activities 296 elements 349
++++ added activity { activity: 
+   { id: '4002851624',
+     name: 'P-2-AB Abandoned Cart Modal Child > Modal experience' } }
+--- config 349 activities 297 elements 349
++++ added activity { activity: 
+   { id: '2787429156',
+     name: 'CRO-311-AB-DTVNOW-B-AB-B3G1 Vs. YESNOW3 with A4T > No B3G' } }
+--- config 349 activities 298 elements 349
++++ added activity { activity: 
+   { id: '3230197543',
+     name: 'A4T Validation - Analy....orting - Deals Page 04 > Experience B' } }
+--- config 349 activities 299 elements 349
++++ added activity { activity: 
+   { id: '1624705091',
+     name: 'CH - CRO-141 pod 2: m.....sticky-header (PAUSED) > v0' } }
+--- config 349 activities 300 elements 349
++++ added activity { activity: 
+   { id: '151872491',
+     name: 'CRO-184-WI-M-AB-Servin....uct Detail Pages Child > Control' } }
+--- config 349 activities 301 elements 349
++++ added activity { activity: 
+   { id: '1690387500',
+     name: 'CRO-25 - exp-11.0-new-returning-modal > v0-control' } }
+--- config 349 activities 302 elements 349
++++ added activity { activity: 
+   { id: '2432928625',
+     name: 'CRO-239-D-New Offer Pr....w, AAL - Desktop Child > Variant 1' } }
+--- config 349 activities 303 elements 349
++++ added activity { activity: 
+   { id: '290892174',
+     name: 'CH-CRO-392-SS-CBO-M cbo-device-support > v0' } }
+--- config 349 activities 304 elements 349
++++ added activity { activity: 
+   { id: '2788907828',
+     name: 'CRO-242-WI-RWD-AB-Test....sung 50% vs $395 Child > Control' } }
+--- config 349 activities 305 elements 349
++++ added activity { activity: 
+   { id: '1255291961',
+     name: 'CRO-200-WI-RWD-Upper F....e Flex - CTA Test edit > Control' } }
+--- config 349 activities 306 elements 349
++++ added activity { activity: 
+   { id: '1417174229',
+     name: 'CRO-178 WI-LND-RWD-AB-....ed in associate banner > Experience B' } }
+--- config 349 activities 307 elements 349
++++ added activity { activity: 
+   { id: '2898855355',
+     name: 'CRO-338/158-DTVNow-B-A....Now_AppleTV Vanity A4T > Experience B' } }
+--- config 349 activities 308 elements 349
++++ added activity { activity: 
+   { id: '2378039858',
+     name: 'CRO-371-HS-RWD-AB-moda....Shop Offers page Child > modals' } }
+--- config 349 activities 309 elements 349
++++ added activity { activity: 
+   { id: '1495431751',
+     name: 'CRO-137 WI-AB-D unlimi.... in buyflow child test > Experience B' } }
+--- config 349 activities 310 elements 349
++++ added activity { activity: 
+   { id: '4124185454',
+     name: 'CRO-11 - exp-1.0-plans-forward (PAUSED) > v1: exp-1.0-plans-forward' } }
+--- config 349 activities 311 elements 349
++++ added activity { activity: 
+   { id: '3394240120',
+     name: 'CRO-380/254/150-DTVNOW....v now links on att.com > IDSE' } }
+--- config 349 activities 312 elements 349
++++ added activity { activity: 
+   { id: '3823990076',
+     name: 'CRO-62 WI-HP-D-AB-Marquee split msg testing > Experience A' } }
+--- config 349 activities 313 elements 349
++++ added activity { activity: 
+   { id: '462752111',
+     name: 'CRO-280-HS-M-AB-CRO-Us....re in Mobile Only Copy > Variant A' } }
+--- config 349 activities 314 elements 349
++++ added activity { activity: 
+   { id: '3748582633',
+     name: 'CRO-159-B-Encourage cu.... during MOVE flow Copy > Variant' } }
+--- config 349 activities 315 elements 349
++++ added activity { activity: 
+   { id: '1620385581',
+     name: 'CRO-11 - exp-1.0-plans-forward (PAUSED) > v2: exp-1.0-plans-forward' } }
+--- config 349 activities 316 elements 349
++++ added activity { activity: 
+   { id: '3509754630',
+     name: 'CH - CRO-322 - Add eSupport Links Desktop > v0' } }
+--- config 349 activities 317 elements 349
++++ added activity { activity: 
+   { id: '769707615',
+     name: 'CRO-9.1 data-plan-layout > v0: Control' } }
+--- config 349 activities 318 elements 349
++++ added activity { activity: 
+   { id: '311130466',
+     name: 'CRO-9.1 data-plan-layout > v2: Comparison Chart' } }
+--- config 349 activities 319 elements 349
++++ added activity { activity: 
+   { id: '3072791780',
+     name: 'CRO-11 - m.exp-2.0-plans-forward (PAUSED) > v1: m.exp-2.0-plans-forward (pod-2)' } }
+--- config 349 activities 320 elements 349
++++ added activity { activity: 
+   { id: '2157783527',
+     name: 'CRO-383--RWD-DTV-Addin....directv page Copy Copy > Variant' } }
+--- config 349 activities 321 elements 349
++++ added activity { activity: 
+   { id: '3757034745',
+     name: 'CRO-131 - m.exp-15.0-s....(PAUSED) (deactivated) > v0' } }
+--- config 349 activities 322 elements 349
++++ added activity { activity: 
+   { id: '2906722426',
+     name: 'CRO-68 Monitor_CRO68_variant3 > Experience A' } }
+--- config 349 activities 323 elements 349
++++ added activity { activity: 
+   { id: '3132347965',
+     name: 'CRO-43 m.exp-11.0-dtv-rearrange (LIVE QA w/ A4T) > V0' } }
+--- config 349 activities 324 elements 349
++++ added activity { activity: 
+   { id: '305564208',
+     name: 'exp-0.0-aa-test 030218 > Experience A' } }
+--- config 349 activities 325 elements 349
++++ added activity { activity: 
+   { id: '2862505712',
+     name: 'CRO-200-WI-RWD-Upper F....e Flex - CTA Test Copy > Variant B' } }
+--- config 349 activities 326 elements 349
++++ added activity { activity: 
+   { id: '59608742',
+     name: 'CRO-68 Monitor_CRO68_nodelight > Experience A' } }
+--- config 349 activities 327 elements 349
++++ added activity { activity: 
+   { id: '3053968394',
+     name: 'CRO-131 - exp-15.0-sec....(PAUSED) (deactivated) > v1' } }
+--- config 349 activities 328 elements 349
++++ added activity { activity: 
+   { id: '158747616',
+     name: 'CRO-353-NEW JULY OFFER.... - New (Desktop) child > Control' } }
+--- config 349 activities 329 elements 349
++++ added activity { activity: 
+   { id: '1556746740',
+     name: 'CRO-338/158-DTVNow-B-A....w_AppleTV Vanity_Child > Control' } }
+--- config 349 activities 330 elements 349
++++ added activity { activity: 
+   { id: '3132897827',
+     name: 'CRO-353-NEW JULY OFFER....- New (Desktop) Parent > Experience B' } }
+--- config 349 activities 331 elements 349
++++ added activity { activity: 
+   { id: '1853055078',
+     name: 'CRO-252-DTVNow-B-AB-DT....unow Vanity_Child Copy > Control' } }
+--- config 349 activities 332 elements 349
++++ added activity { activity: 
+   { id: '561070721',
+     name: 'CRO-14 CH A4T WI-Conta.... numbers (deactivated) > v1' } }
+--- config 349 activities 333 elements 349
++++ added activity { activity: 
+   { id: '1273413143',
+     name: 'CRO 398 Monitoring Campaign For WatchTV > Experience A' } }
+--- config 349 activities 334 elements 349
++++ added activity { activity: 
+   { id: '1591960139',
+     name: 'CRO-308 desktop-insura....-zippy-flow Child - QA > v1: Layout + Copy' } }
+--- config 349 activities 335 elements 349
++++ added activity { activity: 
+   { id: '774282321',
+     name: 'CRO-344-HS-RWD-AB-Affi.... Landing Page Redesign > Variant' } }
+--- config 349 activities 336 elements 349
++++ added activity { activity: 
+   { id: '457122048',
+     name: 'CRO-199 - PLP-sameday-date > v1: PLP sameday-date' } }
+--- config 349 activities 337 elements 349
++++ added activity { activity: 
+   { id: '3207486545',
+     name: 'CRO-295-WI-RWD-AB-Disp....ckout pages AAL and UP > Variant' } }
+--- config 349 activities 338 elements 349
++++ added activity { activity: 
+   { id: '2999272376',
+     name: 'CH - CRO-41 pod 1: m.e....-shipping-mssg LIVE QA > v1' } }
+--- config 349 activities 339 elements 349
++++ added activity { activity: 
+   { id: '1683175969',
+     name: 'CRO-259 HS-RWD-AB-Supp....ers page (deactivated) > Variant 3' } }
+--- config 349 activities 340 elements 349
++++ added activity { activity: 
+   { id: '1556701238',
+     name: 'CRO-94 WI- A/B Device .... Type filter test Copy > variant' } }
+--- config 349 activities 341 elements 349
++++ added activity { activity: 
+   { id: '3345704661',
+     name: 'CH - CRO-121 - Parent (MOBILE) > v0' } }
+--- config 349 activities 342 elements 349
++++ added activity { activity: 
+   { id: '1535537168',
+     name: 'CRO-266 WI-RWD-Unlimit.... - Global Nav A/B Test > Variant 2 (deleted)' } }
+--- config 349 activities 343 elements 349
++++ added activity { activity: 
+   { id: '135431133',
+     name: 'CH - CRO-121 - M - Enc....ing (CHILD | Live QA ) > v1' } }
+--- config 349 activities 344 elements 349
++++ added activity { activity: 
+   { id: '3146188007',
+     name: 'CRO-324-RWD-Paid Searc....erse Bundles LOB) Copy > Control' } }
+--- config 349 activities 345 elements 349
++++ added activity { activity: 
+   { id: '1498800006',
+     name: 'CRO-247-WI-Iphone LND-....tion on iPhone Marquee > Control' } }
+--- config 349 activities 346 elements 349
++++ added activity { activity: 
+   { id: '4025931520',
+     name: 'CRO-49 - exp-16.0-PDP-review-focus (Live QA) > v0-control' } }
+--- config 349 activities 347 elements 349
++++ added activity { activity: 
+   { id: '1853655116',
+     name: 'CH - CRO-121 - M - Enc....ing (CHILD | Live QA ) > v0' } }
+--- config 349 activities 348 elements 349
++++ added activity { activity: 
+   { id: '3952501697',
+     name: 'CRO-396 WI-AB-CHK-RWD child > Experience A' } }
+promise returned MetaModule {
+  _code: 200,
+  _total: 349,
+  _data: 
+   { activities: 
+      [ [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        [Object],
+        ... 249 more items ] } }

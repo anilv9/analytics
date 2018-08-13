@@ -1,0 +1,27 @@
+main {
+}
+
+main > section {
+	padding-top : 25px;
+}
+
+main > section:first-child {
+	padding-top : 0;
+}
+
+main > section > header {
+	text-transform : capitalize;
+}
+
+main > section > table {
+}
+
+main > section > table > thead {
+}
+
+main > section > table > thead > tr {
+}
+
+main > section > table > thead > tr > th {
+	text-transform : capitalize;
+}

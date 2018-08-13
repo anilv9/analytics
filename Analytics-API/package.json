@@ -1,0 +1,35 @@
+{
+	"name": "abkb-api",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon index.js",
+		"cronjob": "node cronjob.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"bluebird": "^3.x",
+		"body-parser": "^1.x",
+		"cron": "^1.x",
+		"d3-node": "^1.x",
+		"express": "^4.x",
+		"express-session": "^1.x",
+		"jira-connector": "^2.x",
+		"moment": "^2.x",
+		"mongoose": "^5.2.6",
+		"node-debugger": "^1.x",
+		"node-fetch": "^2.x",
+		"node-omniture-api": "^0.x",
+		"nodemon": "^1.x",
+		"npm": "^6.3.0",
+		"oauth": "^0.x",
+		"promise": "^8.x",
+		"request": "^2.x",
+		"request-promise": "^4.x",
+		"unirest": "^0.x"
+	}
+}
